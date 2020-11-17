@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragalbh</h1>
-<h3 align="center">A passionate in Data Scientist Machine Learning & Deep Learning Developer</h3>
+<h3 align="center">A passionate Data Scientist Machine Learning & Deep Learning Developer</h3>
 
 - 🔭 I’m currently working on **Recommendation system**
 
