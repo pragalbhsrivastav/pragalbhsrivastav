@@ -21,6 +21,14 @@ and few important features of the car such as cylinder(cil), displacement(disp) 
         
                              - *mpg=a+b1*cil+b2*disp+b3*rar+b4*bhp+error.
                                 a is the intercept parameter and b is slope parameter associated with 'rar' independent variable.
+
+
+
+
+
+author- Pragalbh
+email:- shaineyshrivastava@gmail.com
+linkedin:- www.linkedin.com/in/pragalbh-srivastav-762a95189
                                 
                                           
 
