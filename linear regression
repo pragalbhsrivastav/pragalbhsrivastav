@@ -1,3 +1,27 @@
-#Linear Regression 
-Linear Regression is a statistical model used for finding linear relationship between target and the one or more predictor .
+# Linear Regression 
+**Linear Regression** *is a statistical model used for finding linear relationship between target and the one or more predictor* .
 There are two types of linear regression :
+    - Simple Linear Regression.
+    - Multiple Linear Regression.
+
+When in our linear regression model we have many independent variables ,this will be called as **Multiple Linear Regression**.
+When you have only one indenpent variable in your linear regression model , the model will be *Simple Linear Regression*.
+
+       *y1=B1x1 +B2x2+B3x3+ ............ Bnxn+ ei.*
+       for i=1,2,3 ...... n *n is  numbers of observations*.
+       Generalized Case:- 
+                -Y=XB+e
+**OLS estimates of parameters:-
+                                  -B^=(X^T X )^{-1}.
+                                                    
+**Worked-Out Example      
+Launching a prototype car is very expensive while testing a prototype car , if the car manufacturing company finds that the milege 
+is very low then it will be a waste of money to build this car . That is why car company want to estimate mileage of existing car 
+and few important features of the car such as cylinder(cil), displacement(disp) , rear axle ratio(rar), bhp etc. The multiple regression model is as follow:-
+        
+                             - *mpg=a+b1*cil+b2*disp+b3*rar+b4*bhp+error.
+                                a is the intercept parameter and b is slope parameter associated with 'rar' independent variable.
+                                
+                                          
+
+
