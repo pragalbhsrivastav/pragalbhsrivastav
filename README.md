@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragalbh</h1>
 <h3 align="center"> Student at Edyoda</h3>
 
-- 🔭 I’m currently working on **Recommendation system**
+- 🔭 I’m currently learning  **Data Science**
 
 - 📫 How to reach me **shaineysrivastav@gmail.com**
 
