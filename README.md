@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragalbh</h1>
-<h3 align="center"> Student at Edyoda</h3>
+<h3 align="center"> Software Developer </h3>
 
-- 🔭 I’m currently learning  **Data Science**
+- 🔭 I’m currently working in  **Datagain** as a Reactjs Developer
 
 - 📫 How to reach me **shaineysrivastav@gmail.com**
 
